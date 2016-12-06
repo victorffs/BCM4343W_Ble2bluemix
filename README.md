@@ -17,7 +17,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.h
 # 2. Setting up demo
 
 * Download to BCM4343W
-Import this project to ZentriOS SDK
-Right click on the project > ZentriOS > Build/Download/Run
+* Import this project to ZentriOS SDK
+*Right click on the project > ZentriOS > Build/Download/Run
 Wait for finish
 
