@@ -14,3 +14,6 @@ http://resources.zentri.com/zentrios_sdk/ZentriOS_SDK_Installer.exe
 * JRE - Java Runtime Environment
 http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
+# 2. Setting up BCM4343
+
+* Import this project to ZentriOS SDK
