@@ -46,7 +46,7 @@ https://console.ng.bluemix.net/registration/
 *This Token should be a combination of 18 chars including letters, numbers and symbols
 
 ### 3.4 Save and reboot
-* Use the command save
+* Use the command `save`
 * Use the command `reboot`
 
 ### 3.5 Verify informations
