@@ -26,8 +26,8 @@ https://console.ng.bluemix.net/registration/
 # 3. Setting up Demo
 * Start a Serial communication with Tera Term or Putty
 * If this board have the factory configurations, go to step 3.1, else go to step 3.2
-* You can reset all the configurations using the comand "fac" and your MAC Adress as arg. Example: **fac XX:XX:XX:XX:XX:XX**
-* The command to show your MAC Adress is: **get wlan.mac**
+* You can reset all the configurations using the comand `fac` and your MAC Adress as arg. Example: `fac XX:XX:XX:XX:XX:XX`
+* The command to show your MAC Adress is: `get wlan.mac`
 
 ## 3.1 Setting up network
 * Use the command `nup -s` to scan all networks
